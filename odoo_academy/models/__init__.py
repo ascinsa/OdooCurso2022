@@ -1,2 +1,2 @@
-# -*- codigo utf8 -*-
-from .import course
+# -*- codigo: utf8 -*-
+from . import course
